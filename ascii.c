@@ -1,14 +1,3 @@
-/*************************************************************
- A program that will create draw a house using ascii characters
- based on a series of user input.
-
- IPC144  Assignment 2
- Name: Nakib Momin
- Student Id:027916139
-
-**************************************************************/
-
-
 #include <stdio.h>
 #include <ctype.h>
 
