@@ -1,4 +1,4 @@
-ASCII HOUSE IN C (First C Assignment For IPC144)
+ASCII HOUSE IN C 
 ===================================================
 
 Create ASCII House on command line with user specified height, width, number of windows and type of roof. Pretty simple but cool project.
